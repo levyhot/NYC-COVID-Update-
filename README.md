@@ -26,4 +26,4 @@ The steps in the flow remove the word 'COVID' from beginning of the names of a n
 This is useful down the line in Tableau, when we create parameter and calculated fields for use in both datasets.
 
 c. Connect the 'group.csv' file and use the 'group cleaning flow' to clean.
-The steps in the flow breaks up the 'subgroup' variable into the various components. It creates new variables for 'Race/Ethnicity', 'Borough', 'Age', 'Sex' and 'Poverty'. These new variables will be used to in a parameter to filter some charts.
+The steps in the flow breaks up the 'subgroup' variable into the various components. It creates new variables for 'Race/Ethnicity', 'Borough', 'Age', 'Sex' and 'Poverty'. These new variables will be used in a parameter to filter some charts.
